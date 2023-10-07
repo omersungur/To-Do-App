@@ -29,6 +29,7 @@ App Features:
 - You have options for note text size
 - You can see the date you created or updated the note
 - You can search by note title
+</br>
 
 Screenshots:
 
