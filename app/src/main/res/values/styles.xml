@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget.TodoApp.CardViewStyle" parent="CardView">
+        <item name="android:layout_height">@dimen/note_card_height</item>
+        <item name="android:layout_width">@dimen/note_card_width</item>
+        <item name="android:layout_marginRight">@dimen/note_card_padding</item>
+        <item name="android:soundEffectsEnabled">false</item>
+    </style>
+
+</resources>
