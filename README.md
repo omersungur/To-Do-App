@@ -40,3 +40,5 @@ Screenshots:
 <img src="https://github.com/omersungur/To-Do-App/assets/70448538/50ce3af5-bddb-4500-b030-5cc000cb2260" alt="Screenshot_1694509493" width="300" height="auto">
 <img src="https://github.com/omersungur/To-Do-App/assets/70448538/4d77fa75-50f9-4db5-9611-9f8de62ee711" alt="Screenshot_1694509493" width="300" height="auto">
 <img src="https://github.com/omersungur/To-Do-App/assets/70448538/255392e1-8cac-49fb-bfd7-20238d6ea243" alt="Screenshot_1694509493" width="300" height="auto">
+<img src="https://github.com/omersungur/To-Do-App/assets/70448538/4f1561d3-f60f-44f4-b337-f43a70f409eb" alt="Screenshot_1694509493" width="300" height="auto">
+<img src="https://github.com/omersungur/To-Do-App/assets/70448538/5f38505d-2ec1-4048-af0b-1f1382115fc5" alt="Screenshot_1694509493" width="300" height="auto">
